@@ -142,3 +142,51 @@ color: #181818;
 margin-top: 30px;
 margin-bottom: 20px;
 }
+.resume-contain{
+    display: flex;
+    gap: 70px;
+}
+.resume .title{
+    font-weight: 700;
+font-size: 25px;
+color: #474747;
+margin-bottom: 10px;
+
+}
+.resume .sub-title{
+    font-weight: 600;
+font-size: 20px;
+color: #757575;
+margin-bottom: 20px;
+
+}
+.resume .description{
+    font-weight: 400;
+font-size: 16px;
+color: #757575;
+
+}
+.resume{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.resume-button{
+    margin-top: 50px;
+    text-align: center;
+}
+.contact{
+    display: flex;
+    gap: 100px;
+    padding: 120px;
+}
+.contact .section-title{
+    color: #181818;
+}
+.contact input,textarea{
+    margin-bottom: 24px;
+    width: 100%;
+    padding:18px 30px;
+}
+input{
+    height: 64px;
+}
